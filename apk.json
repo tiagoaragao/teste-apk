@@ -1,6 +1,6 @@
 {
   "versionName":"1.48.1",
   "versionCode": "998",
-  "apkUrl":"https://goperacao.com.br/teste.apk",
+  "apkUrl":"https://gitlab.com/tiago.alexandre.aragao/teste-apk/-/raw/main/app-debug.apk?inline=false",
   "forceUpdate": false
 }
